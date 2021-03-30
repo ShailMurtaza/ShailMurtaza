@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ShailMurtaza
+- 👋 Hi, I’m ShailMurtaza
 - 👀 I’m interested in Ethical hacking and networking
 - 🌱 I’m currently learning Advance stuff in C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? shailmurtaza@gmail.com
+- 📫 How to reach me ? (WatsApp) +92 321 6295534
+- 📫 How to reach me ? (Telegram Username) @ShailMurtaza
 
 <!---
 ShailMurtaza/ShailMurtaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
