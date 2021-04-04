@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advance stuff in C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? shailmurtaza@gmail.com
-- 📫 How to reach me ? (WatsApp) +92 321 6295534
+- 📫 How to reach me ? (WhatsApp) +92 321 6295534
 - 📫 How to reach me ? (Telegram Username) @ShailMurtaza
 
 <!---
