@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ShailMurtaza
 - 👀 I’m interested in Ethical hacking and networking
-- 🌱 I’m currently learning Advance stuff in C programming
+- 🌱 I’m currently learning Advance stuff in C/C++ programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? shailmurtaza@gmail.com
 - 📫 How to reach me ? (WhatsApp) +92 321 6295534
