@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ShailMurtaza
+- 👋 Hi, I’m Shail Murtaza
 - 👀 I’m interested in System Programming
 - 🌱 I’m currently learning Advance stuff in C/C++ programming
 - 💞️ I’m looking to collaborate on ...
